@@ -33,7 +33,7 @@ LDR:DAY/NIGHT
 IR\_STATE:0:1 # Sensor 0 detected
 LED:3:ON # Light 3 ON
 
-\## 📊 Sample Logs
+📊 Sample Logs
 
 2026-01-17 085604.384542 LDR:DAY
 2026-01-17 085605.070952 IR\_STATE:0:1
